@@ -1,7 +1,8 @@
+.cargo {
+  font-size: 0.8rem;
+}
 .hero-section {
   background: radial-gradient(rgba(14, 44, 144, 0.6), rgba(0, 0, 0, 0.6));
-
   padding-top: 140px;
-
   padding-bottom: 100px;
 }
