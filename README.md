@@ -8,9 +8,8 @@ Mira la demo del proyecto [aqui](https://techconf-c30.netlify.app/)
 
 ## 🛠️ Herramientas utilizadas
 
-- HTML5
-- CSS3
-- [Bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge) ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+
 
 ## 📖 Pasos para probar el proyecto
 
